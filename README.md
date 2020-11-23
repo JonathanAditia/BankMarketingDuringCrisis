@@ -65,8 +65,6 @@ Customers Saving Rates Drop Significantly During Crisis and Affects Marketing Pe
 
 ### Analysis on Customer
 
-![](/Image/PortugalNPL.png)
-
 ![](/Img2/AnalysisOnCustomer.png)
 
 #### Elders Are The Most Likely to Put A Term Deposits, This Due To A Much Higher Savings Rate Among Elders Compare to Other Age Groups
