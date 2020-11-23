@@ -208,9 +208,9 @@ Customers Saving Rates Drop Significantly During Crisis and Affects Marketing Pe
 
 ![](/GitHubImage/Purwadhika.png)
 
-![](/Image/MasKim.png)
+![](/GitHubImage/MasKim.png)
 
-![](/Img2/MasAlfa.png)
+![](/GitHubImage/MasAlfa.png)
 
 ### CONNECT WITH ME
 
