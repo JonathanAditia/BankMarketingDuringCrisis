@@ -172,7 +172,7 @@ Customers Saving Rates Drop Significantly During Crisis and Affects Marketing Pe
 
 ## DASHBOARD
 
-![](/GitHubImage/Purwadhika.png)
+![](/GitHubImage/Dash.png)
 
 ### REFERENCES ON PORTUGAL BANKING AND ECONOMIC LANDSCAPE
 
