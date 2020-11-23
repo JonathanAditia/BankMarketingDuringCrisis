@@ -206,13 +206,16 @@ Customers Saving Rates Drop Significantly During Crisis and Affects Marketing Pe
     Purwadhika Admin
     Fellow Friends From JCDS 10 
 
-Purwadhika
+#### Purwadhika
+
 ![](/GitHubImage/Purwadhika.png)
 
-Mas Kim
+#### Mas Kim
+
 ![](/GitHubImage/MasKim.jpg)
 
-Mas Alfa
+#### Mas Alfa
+
 ![](/GitHubImage/MasAlfa.jpg)
 
 ### CONNECT WITH ME
