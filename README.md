@@ -22,8 +22,11 @@ During 2008-2010, World Financial Crisis Affects Portugal, Damaging Banks and Ot
 
 ## PRESENTATION
 
-
+#### Full PPTX
 [PDF](https://github.com/JonathanAditia/BankMarketingDuringCrisis/blob/main/BankMarketingCampaign.pptx)
+
+#### Short PPTX
+[PDF](https://github.com/JonathanAditia/BankMarketingDuringCrisis/blob/main/BankMarketingCampaignOpening.pptx)
 
 ## STEPS
 
