@@ -214,7 +214,7 @@ Customers Saving Rates Drop Significantly During Crisis and Affects Marketing Pe
 
 #### Mas Kal
 
-![](/GitHubImage/MasKal.jpg)
+![](/GitHubImage/MasKal.jpeg)
 
 #### Mas Alfa
 
